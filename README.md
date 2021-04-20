@@ -1,8 +1,9 @@
+
+### React Web app for searching contact details of robots, Redux is used to manage the state of the robots the user searched for.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5f496e6d-067e-4ae8-9018-ee7851be7cc1/deploy-status)](https://app.netlify.com/sites/p-robo/deploys)
-
-React Web app for searching contact details of robots, Redux is used to manage the state of the robots the user searched for.
 
 ## Available Scripts
 
