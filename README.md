@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a React app with for searching details of certain robots, with working state management using Redux.
+
 ## Available Scripts
 
 In the project directory, you can run:
